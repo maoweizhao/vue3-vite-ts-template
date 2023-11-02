@@ -1,0 +1,9 @@
+dist
+node_modules
+pnpm-lock.yaml
+src/config/*
+
+.vscode
+.idea
+/public
+.eslintrc.js
